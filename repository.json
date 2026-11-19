@@ -1,0 +1,9 @@
+{
+  "Releases": [
+    {
+      "Id": "custom_map_image",
+      "Version": "2.1.0",
+      "DownloadUrl": "https://github.com/Grdn-Network/MIC/releases/download/v2.1.0/Map.Image.Changer.zip"
+    }
+  ]
+}
